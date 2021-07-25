@@ -1,35 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-   <name>Combat Extended - German translation</name>
-   <author>b0tch</author>
-   <url>https://github.com/b0tchn4d3/Combat-Extended-Guns---German-translation</url>
-   <packageId>b0tch.CombatExtendedGunsGer</packageId>
-   <supportedVersions>
+	<name>Combat Extended Guns - German translation</name>
+	<author>b0tch</author>
+	<url>https://github.com/b0tchn4d3/Combat-Extended-Guns---German-translation</url>
+	<description>German translation of the mod CE Guns, just the translated files. Still needs CE and CE G</description>
+	<supportedVersions>
 		<li>1.3</li>
 	</supportedVersions>
+	<packageId>botch.CombatExtendedGuns.GunsGer</packageId>
    <modDependencies>
 		<li>
-			<packageId>CETeam.CombatExtended<</packageId>
-			<displayName>Combat Extended</displayName>
-			<downloadUrl>https://github.com/CombatExtendedRWMod/CombatExtended/releases</downloadUrl>
-			<steamWorkshopUrl>steam://url/CommunityFilePage/1631756268</steamWorkshopUrl>
-		</li>
-			<packageId>CETeam.CombatExtendedGuns<</packageId>
+		<packageId>CETeam.CombatExtended</packageId>
+		<displayName>Combat Extended</displayName>
+		<downloadUrl>https://github.com/CombatExtendedRWMod/CombatExtended/releases</downloadUrl>
+		<steamWorkshopUrl>steam://url/CommunityFilePage/1631756268</steamWorkshopUrl>
+		<li>
+			<packageId>CETeam.CombatExtendedGuns</packageId>
 			<displayName>Combat Extended Guns</displayName>
 			<downloadUrl>https://github.com/CombatExtended-Continued/CombatExtendedGuns</downloadUrl>
 			<steamWorkshopUrl>steam://url/CommunityFilePage/1582570547</steamWorkshopUrl>
+			</li>
 	</modDependencies>
-	<loadAfter>
+<loadAfter>
 		<li>CETeam.CombatExtended</li>
 		<li>CETeam.CombatExtendedGuns</li>
 	</loadAfter>
-	</ModMetaData>
-# 
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-This is the german translation of CE Guns, it still needs CE and CE Guns.
-
-Credit goes to N7Huntsman and the Combat Extended team
-
-b0tch
+</ModMetaData>
