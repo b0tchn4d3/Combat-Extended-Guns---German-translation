@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- M72 LAW -->
+
+  <MakeM72LAW.label>erstelle M72 LAW x5</MakeM72LAW.label>
+  <MakeM72LAW.description>Erstelle 5 M72 LAW Werfer.</MakeM72LAW.description>
+  <MakeM72LAW.jobString>Erstelle M72 LAW Werfer.</MakeM72LAW.jobString>
+
+
+</LanguageData>

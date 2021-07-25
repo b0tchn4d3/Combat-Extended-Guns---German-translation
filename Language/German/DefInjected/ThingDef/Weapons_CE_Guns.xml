@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Taurus Judge -->
+
+  <CE_Gun_TaurusJudge.label>Taurus Judge</CE_Gun_TaurusJudge.label>
+  <CE_Gun_TaurusJudge.description>Antiker Revolver, der für die Selbstverteidigung entwickelt wurde. Verschießt sowohl eine kräftige Pistolenpatrone als auch kleine Schrotpatronen.</CE_Gun_TaurusJudge.description>
+  <CE_Gun_TaurusJudge.tools.0.label>Griff</CE_Gun_TaurusJudge.tools.0.label>
+  <CE_Gun_TaurusJudge.tools.1.label>Mündung</CE_Gun_TaurusJudge.tools.1.label>
+
+
+  <!-- USAS-12 -->
+
+  <CE_Gun_USASTwelve.label>USAS-12</CE_Gun_USASTwelve.label>
+  <CE_Gun_USASTwelve.description>Uraltes Sturmgewehr, das für Vollautomatik-Feuer im Nahbereich ausgelegt ist.</CE_Gun_USASTwelve.description>
+  <CE_Gun_USASTwelve.tools.0.label>Lager</CE_Gun_USASTwelve.tools.0.label>
+  <CE_Gun_USASTwelve.tools.1.label>Lauf</CE_Gun_USASTwelve.tools.1.label>
+  <CE_Gun_USASTwelve.tools.2.label>Mündung</CE_Gun_USASTwelve.tools.2.label>
+
+
+  <!-- FN FAL -->
+
+  <CE_Gun_FNFAL.label>FN FAL</CE_Gun_FNFAL.label>
+  <CE_Gun_FNFAL.description>Ein altes militärisches Sturmgewehr, das eine Vollmantelpatrone abfeuert.</CE_Gun_FNFAL.description>
+  <CE_Gun_FNFAL.tools.0.label>Lager</CE_Gun_FNFAL.tools.0.label>
+  <CE_Gun_FNFAL.tools.1.label>Lauf</CE_Gun_FNFAL.tools.1.label>
+  <CE_Gun_FNFAL.tools.2.label>Mündung</CE_Gun_FNFAL.tools.2.label>
+
+
+  <!-- SKS -->
+
+  <CE_Gun_SKS.label>SKS</CE_Gun_SKS.label>
+  <CE_Gun_SKS.description>Antikes Kampfgewehr. Feuert eine mittlere Gewehrpatrone ab und ist eine beliebte Wahl für Langstreckengefechte.</CE_Gun_SKS.description>
+  <CE_Gun_SKS.tools.0.label>Lager</CE_Gun_SKS.tools.0.label>
+  <CE_Gun_SKS.tools.1.label>Lauf</CE_Gun_SKS.tools.1.label>
+  <CE_Gun_SKS.tools.2.label>Mündung</CE_Gun_SKS.tools.2.label>
+
+
+  <!-- AK-47 -->
+
+  <CE_Gun_AKFortySeven.label>AK-47</CE_Gun_AKFortySeven.label>
+  <CE_Gun_AKFortySeven.description>Alte Militärwaffe, die für eine Zwischenpatrone gekammert ist. Die einfache Konstruktion macht es leicht es zusammenzubauen und gibt ihr eine hohe Zuverlässigkeit.</CE_Gun_AKFortySeven.description>
+  <CE_Gun_AKFortySeven.tools.0.label>Lager</CE_Gun_AKFortySeven.tools.0.label>
+  <CE_Gun_AKFortySeven.tools.1.label>Lauf</CE_Gun_AKFortySeven.tools.1.label>
+  <CE_Gun_AKFortySeven.tools.2.label>Mündung</CE_Gun_AKFortySeven.tools.2.label>
+
+
+  <!-- AK-12 -->
+
+  <CE_Gun_AKTwelve.label>AK-12</CE_Gun_AKTwelve.label>
+  <CE_Gun_AKTwelve.description>Antikes Sturmgewehr-Design mit einem speziellen Magazin mit hoher Kapazität.</CE_Gun_AKTwelve.description>
+  <CE_Gun_AKTwelve.tools.0.label>Lager</CE_Gun_AKTwelve.tools.0.label>
+  <CE_Gun_AKTwelve.tools.1.label>Lauf</CE_Gun_AKTwelve.tools.1.label>
+  <CE_Gun_AKTwelve.tools.2.label>Mündung</CE_Gun_AKTwelve.tools.2.label>
+
+
+  <!-- AKS-74U -->
+
+  <CE_Gun_AKSSeventyFourU.label>AKS-74U</CE_Gun_AKSSeventyFourU.label>
+  <CE_Gun_AKSSeventyFourU.description>Alte Sub-Karabiner-Konstruktion, die die Kompaktheit einer SMG mit den panzerbrechenden Fähigkeiten einer Gewehrpatrone kombiniert.</CE_Gun_AKSSeventyFourU.description>
+  <CE_Gun_AKSSeventyFourU.tools.0.label>Lager</CE_Gun_AKSSeventyFourU.tools.0.label>
+  <CE_Gun_AKSSeventyFourU.tools.1.label>Lauf</CE_Gun_AKSSeventyFourU.tools.1.label>
+  <CE_Gun_AKSSeventyFourU.tools.2.label>Mündung</CE_Gun_AKSSeventyFourU.tools.2.label>
+
+
+  <!-- SVD -->
+
+  <CE_Gun_SVD.label>SVD</CE_Gun_SVD.label>
+  <CE_Gun_SVD.description>Scharfschützengewehr mit einer ziemlich einfachen zusammengebaut werden kann. Es ist bekannt für seine Zuverlässigkeit.</CE_Gun_SVD.description>
+  <CE_Gun_SVD.tools.0.label>Lager</CE_Gun_SVD.tools.0.label>
+  <CE_Gun_SVD.tools.1.label>Lauf</CE_Gun_SVD.tools.1.label>
+  <CE_Gun_SVD.tools.2.label>Mündung</CE_Gun_SVD.tools.2.label>
+
+
+  <!-- Tac-50 -->
+
+  <CE_Gun_TacFifty.label>Tac-50</CE_Gun_TacFifty.label>
+  <CE_Gun_TacFifty.description>Antikes Repetiergewehr zur Abwehr von Angriffen. Kombiniert eine großkalibrige Patrone mit einem Zielfernrohr mit hoher Vergrößerung für das Scharfschießen auf extreme Entfernung.</CE_Gun_TacFifty.description>
+  <CE_Gun_TacFifty.tools.0.label>Lager</CE_Gun_TacFifty.tools.0.label>
+  <CE_Gun_TacFifty.tools.1.label>Lauf</CE_Gun_TacFifty.tools.1.label>
+  <CE_Gun_TacFifty.tools.2.label>Mündung</CE_Gun_TacFifty.tools.2.label>
+
+
+  <!-- PTRS -->
+
+  <CE_Gun_PTRS.label>PTRS-41</CE_Gun_PTRS.label>
+  <CE_Gun_PTRS.description>Antikes Panzerabwehrgewehr, ursprünglich für den Einsatz gegen primitive Panzerfahrzeuge konzipiert. Feuert eine sehr leistungsfähige Patrone, aber die große Größe und das Gewicht machen es unhandlich.</CE_Gun_PTRS.description>
+  <CE_Gun_PTRS.tools.0.label>Lager</CE_Gun_PTRS.tools.0.label>
+  <CE_Gun_PTRS.tools.1.label>Lauf</CE_Gun_PTRS.tools.1.label>
+  <CE_Gun_PTRS.tools.2.label>Mündung</CE_Gun_PTRS.tools.2.label>
+
+
+  <!-- M60 machine gun -->
+
+  <CE_Gun_MSixty.label>M60</CE_Gun_MSixty.label>
+  <CE_Gun_MSixty.description>Ein gürtelgespeistes Allzweck-Maschinengewehr. Viel Feuerkraft, aber schwer und unhandlich zu tragen. Häufig mit dem Spitznamen "Das Schwein" versehen.</CE_Gun_MSixty.description>
+  <CE_Gun_MSixty.tools.0.label>Lager</CE_Gun_MSixty.tools.0.label>
+  <CE_Gun_MSixty.tools.1.label>Lauf</CE_Gun_MSixty.tools.1.label>
+  <CE_Gun_MSixty.tools.2.label>Mündung</CE_Gun_MSixty.tools.2.label>
+
+
+  <!-- RPD -->
+
+  <CE_Gun_RPD.label>RPD</CE_Gun_RPD.label>
+  <CE_Gun_RPD.description>Antike Konstruktion eines leichten Maschinengewehrs. Der Vorläufer der modernen Squad-Automatikwaffen, ist es vergleichsweise leicht für eine Waffe seiner Klasse.</CE_Gun_RPD.description>
+  <CE_Gun_RPD.tools.0.label>Lager</CE_Gun_RPD.tools.0.label>
+  <CE_Gun_RPD.tools.1.label>Lauf</CE_Gun_RPD.tools.1.label>
+  <CE_Gun_RPD.tools.2.label>Mündung</CE_Gun_RPD.tools.2.label>
+
+
+  <!-- PKM -->
+
+  <CE_Gun_PKM.label>PKM</CE_Gun_PKM.label>
+  <CE_Gun_PKM.description>Uraltes Allzweck-Maschinengewehr. Die robuste Bauweise macht es zu einer beliebten Waffe bei den Bewohnern von Rimworlds.</CE_Gun_PKM.description>
+  <CE_Gun_PKM.tools.0.label>Lager</CE_Gun_PKM.tools.0.label>
+  <CE_Gun_PKM.tools.1.label>Lauf</CE_Gun_PKM.tools.1.label>
+  <CE_Gun_PKM.tools.2.label>Mündung</CE_Gun_PKM.tools.2.label>
+
+
+  <!-- RPG-7 -->
+
+  <CE_Gun_RPGSeven.label>RPG-7</CE_Gun_RPGSeven.label>
+  <CE_Gun_RPGSeven.description>Ein kurzer, raketengetriebener Granatwerfer, der einzelne Geschosse abfeuert, die beim Aufprall explodieren. Eine relativ sehr günstige, mehrfach verwendbare Alternative zu Einzelschusswerfern.</CE_Gun_RPGSeven.description>
+  <CE_Gun_RPGSeven.tools.0.label>Lauf</CE_Gun_RPGSeven.tools.0.label>
+
+
+  <!-- M72 LAW -->
+
+  <CE_Gun_M72LAW.label>M72 LAW</CE_Gun_M72LAW.label>
+  <CE_Gun_M72LAW.description>Ein leichter Panzerabwehrwerfer für den Einmalgebrauch. Entwickelt, um Soldaten im Feld mit einer kompakten Panzerabwehrwaffe auszustatten.</CE_Gun_M72LAW.description>
+  <CE_Gun_M72LAW.tools.0.label>Lager</CE_Gun_M72LAW.tools.0.label>
+  <CE_Gun_M72LAW.tools.1.label>Lauf</CE_Gun_M72LAW.tools.1.label>
+  <CE_Gun_M72LAW.tools.2.label>Mündung</CE_Gun_M72LAW.tools.2.label>
+
+
+  <!-- Milkor MGL -->
+
+  <CE_Gun_MilkorMGL.label>Milkor MGL</CE_Gun_MilkorMGL.label>
+  <CE_Gun_MilkorMGL.description>Antiker, tragbarer Granatwerfer. Der 6-schüssige Zylinder ermöglicht eine relativ hohe Feuermenge.</CE_Gun_MilkorMGL.description>
+  <CE_Gun_MilkorMGL.tools.0.label>Lager</CE_Gun_MilkorMGL.tools.0.label>
+  <CE_Gun_MilkorMGL.tools.1.label>Lauf</CE_Gun_MilkorMGL.tools.1.label>
+  <CE_Gun_MilkorMGL.tools.2.label>Mündung</CE_Gun_MilkorMGL.tools.2.label>
+
+
+  <!-- Charge LMG -->
+
+  <CE_Gun_ChargeLMG.label>L-20 charge LMG</CE_Gun_ChargeLMG.label>
+  <CE_Gun_ChargeLMG.description>Ladungsgeladenes leichtes Maschinengewehr, das für die Unterdrückung entwickelt wurde.</CE_Gun_ChargeLMG.description>
+  <CE_Gun_ChargeLMG.tools.0.label>Lager</CE_Gun_ChargeLMG.tools.0.label>
+  <CE_Gun_ChargeLMG.tools.1.label>Lauf</CE_Gun_ChargeLMG.tools.1.label>
+  <CE_Gun_ChargeLMG.tools.2.label>Mündung</CE_Gun_ChargeLMG.tools.2.label>
+
+
+  <!-- Charge Sniper -->
+
+  <CE_Gun_ChargeSniperRifle.label>R-11 Präzisionsgewehr</CE_Gun_ChargeSniperRifle.label>
+  <CE_Gun_ChargeSniperRifle.description>Scharfschützengewehr mit geladenem Schuss, ausgestattet mit fortschrittlicher Optik für Schüsse auf große Entfernungen.</CE_Gun_ChargeSniperRifle.description>
+  <CE_Gun_ChargeSniperRifle.tools.0.label>Lager</CE_Gun_ChargeSniperRifle.tools.0.label>
+  <CE_Gun_ChargeSniperRifle.tools.1.label>Lauf</CE_Gun_ChargeSniperRifle.tools.1.label>
+  <CE_Gun_ChargeSniperRifle.tools.2.label>Mündung</CE_Gun_ChargeSniperRifle.tools.2.label>
+
+
+  <!-- Charge SMG -->
+
+  <CE_Gun_ChargeSMG.label>S-14 charge SMG</CE_Gun_ChargeSMG.label>
+  <CE_Gun_ChargeSMG.description>Maschinenpistole mit geladenem Schuss, sehr effektiv im Nahkampf.</CE_Gun_ChargeSMG.description>
+  <CE_Gun_ChargeSMG.tools.0.label>Lager</CE_Gun_ChargeSMG.tools.0.label>
+  <CE_Gun_ChargeSMG.tools.1.label>Lauf</CE_Gun_ChargeSMG.tools.1.label>
+  <CE_Gun_ChargeSMG.tools.2.label>Mündung</CE_Gun_ChargeSMG.tools.2.label>
+
+
+  <!-- Flamethrower -->
+
+  <CE_Gun_Flamethrower.label>RM2 Flammenwerfer</CE_Gun_Flamethrower.label>
+  <CE_Gun_Flamethrower.description>Unkonventionelles Flammenwerferdesign, das austauschbare Kanister mit unter Druck stehendem Kraftstoff anstelle eines auf dem Rücken montierten Tanks verwendet. Weniger belastend, muss aber häufig nachgeladen werden.</CE_Gun_Flamethrower.description>
+  <CE_Gun_Flamethrower.tools.0.label>Lager</CE_Gun_Flamethrower.tools.0.label>
+  <CE_Gun_Flamethrower.tools.1.label>Lauf</CE_Gun_Flamethrower.tools.1.label>
+  <CE_Gun_Flamethrower.tools.2.label>Mündung</CE_Gun_Flamethrower.tools.2.label>
+
+
+</LanguageData>
